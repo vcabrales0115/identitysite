@@ -1,0 +1,12 @@
+body {
+background-image: url(https://i.pinimg.com/originals/0a/76/92/0a76922fe060ef75ea2be13827e7166a.png);
+
+background-position: lower; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+table,th,td {
+    
+    border:1px soild rgb(253, 241, 241)
+}
